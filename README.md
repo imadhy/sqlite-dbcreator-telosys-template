@@ -1,0 +1,1 @@
+# sqlite-dbcreator-telosys-template
